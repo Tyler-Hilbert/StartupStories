@@ -563,11 +563,6 @@ video {
   height: 6rem;
 }
 
-.max-h-min {
-  max-height: -moz-min-content;
-  max-height: min-content;
-}
-
 .max-w-max {
   max-width: -moz-max-content;
   max-width: max-content;
